@@ -1,2 +1,2 @@
 # javascript
-Curso de Javascript
+Curso de Javascript Guanabara 
